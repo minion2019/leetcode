@@ -1,1 +1,3 @@
 # leetcode
+
+## leetcode start in 3, 2, 1...
